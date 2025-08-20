@@ -1,0 +1,16 @@
+{
+  "trabajo": {
+    "cabra": {
+      "user_key": "1423",
+      "server_ip": "192.168.2.19:22003"
+    },
+    "Usuario2": {
+      "user_key": "CLAVE2",
+      "server_ip": "123.45.67.89:22003"
+    },
+    "Usuario3": {
+      "user_key": "CLAVE3",
+      "server_ip": "123.45.67.89:22003"
+    }
+  }
+}
